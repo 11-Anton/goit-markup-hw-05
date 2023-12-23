@@ -42,4 +42,14 @@
       <path d="M18.841 1.319C17.229.137 16.448 0 16 0H4.5A2.503 2.503 0 0 0 2 2.5v23c0 1.207.86 2.217 2 2.45V2.5c0-.271.229-.5.5-.5h15.215a19.873 19.873 0 0 0-.873-.681z"/>
     </symbol>
   </defs>
+  <symbol  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" id="close-black1">
+    <g id="close-black-18dp (2) 1" clip-path="url(#clip0_297024_946)">
+      <path id="Vector" d="M8 0.805714L7.19429 0L4 3.19429L0.805714 0L0 0.805714L3.19429 4L0 7.19429L0.805714 8L4 4.80571L7.19429 8L8 7.19429L4.80571 4L8 0.805714Z"></path>
+    </g>
+    <defs>
+      <clipPath id="clip0_297024_946">
+        <rect width="8" height="8" fill="white"></rect>
+      </clipPath>
+    </defs>
+  </symbol>
 </svg>
